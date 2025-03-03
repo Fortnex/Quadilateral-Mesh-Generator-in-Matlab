@@ -7,4 +7,5 @@ This repo is a work in progress. Currently we're working on opening quad meshes 
 This is not a stable release.
 
 Research Partners: Andrew Tom, Dhimanth
+
 Mentors: Dr. T.V Smitha
